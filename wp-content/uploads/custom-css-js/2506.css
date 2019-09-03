@@ -1,0 +1,47 @@
+
+<style type="text/css">
+.navigation-top{position: relative;background: #b8bca3;z-index: 10;}
+#menu-my-custom-menu {margin: 0px; display: inline-block; width: 100%; text-align: right;}
+.top-link {background: #efefef;}
+#menu-my-custom-menu li {display: inline-block; font-size: 13px; padding: 10px; }
+#menu-my-custom-menu li a {color: #919191; }
+.custom-menu-class {max-width: 1200px; margin: 0 auto; }
+ .wrap {max-width: 1200px !important; padding: 0px; }
+.custom-logo-link img {max-height: 100%; width: 150px; }
+#masthead .wrap .logo .custom-logo-link {padding: 0px; }
+#masthead .wrap .logo {float: left; width: 15%; }
+.navigation-top nav {margin-left: 0; float: right; width: 85%; clear: unset; padding-top: 50px; }
+.main-navigation a {color: #fff;}
+.main-navigation li.acc-dash {float: right; }
+.navigation-top{border-bottom: none;}
+
+.home-slider {*margin-top: -175px; }
+.tab-boxes.elementor-section-boxed {margin-top: -60px !important; }
+
+.elementor-2684 .elementor-element.icon-sv .elementor-image img {padding: 10px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+

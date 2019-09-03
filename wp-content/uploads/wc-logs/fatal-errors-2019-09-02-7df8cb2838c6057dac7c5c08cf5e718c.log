@@ -1,0 +1,18 @@
+2019-09-02T07:09:11+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:09:20+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:09:34+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:09:49+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:10:09+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:10:11+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:10:20+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:11:12+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
+2019-09-02T07:11:20+00:00 CRITICAL Cannot redeclare twentyseventeen_unique_id() (previously declared in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen-child/functions.php:641) in /home/theperfectgoodbye/public_html/wp-content/themes/twentyseventeen/functions.php on line 641
+
